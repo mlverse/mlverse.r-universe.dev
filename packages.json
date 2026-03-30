@@ -1,0 +1,81 @@
+[
+    {
+        "package": "chattr",
+        "url": "https://github.com/mlverse/chattr"
+    },
+    {
+        "package": "cuda.ml",
+        "url": "https://github.com/mlverse/cuda.ml"
+    },
+    {
+        "package": "cuda12.6",
+        "url": "https://github.com/mlverse/cudatoolkit",
+        "subdir": "cuda12.6"
+    },
+    {
+        "package": "cuda12.8",
+        "url": "https://github.com/mlverse/cudatoolkit",
+        "subdir": "cuda12.8"
+    },
+    {
+        "package": "cuda13.2",
+        "url": "https://github.com/mlverse/cudatoolkit",
+        "subdir": "cuda13.2"
+    },
+    {
+        "package": "hfhub",
+        "url": "https://github.com/mlverse/hfhub"
+    },
+    {
+        "package": "lang",
+        "url": "https://github.com/mlverse/lang"
+    },
+    {
+        "package": "luz",
+        "url": "https://github.com/mlverse/luz"
+    },
+    {
+        "package": "mall",
+        "url": "https://github.com/mlverse/mall"
+    },
+    {
+        "package": "pysparklyr",
+        "url": "https://github.com/mlverse/pysparklyr"
+    },
+    {
+        "package": "safetensors",
+        "url": "https://github.com/mlverse/safetensors"
+    },
+    {
+        "package": "tabnet",
+        "url": "https://github.com/mlverse/tabnet"
+    },
+    {
+        "package": "tfevents",
+        "url": "https://github.com/mlverse/tfevents"
+    },
+    {
+        "package": "tok",
+        "url": "https://github.com/mlverse/tok"
+    },
+    {
+        "package": "torch",
+        "url": "https://github.com/mlverse/torch"
+    },
+    {
+        "package": "torchdatasets",
+        "url": "https://github.com/mlverse/torchdatasets"
+    },
+    {
+        "package": "torchvision",
+        "url": "https://github.com/mlverse/torchvision"
+    },
+    {
+        "package": "torchvisionlib",
+        "url": "https://github.com/mlverse/torchvisionlib"
+    },
+    {
+        "package": "wav",
+        "url": "https://github.com/mlverse/wav"
+    }
+]
