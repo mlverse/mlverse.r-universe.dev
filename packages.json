@@ -18,6 +18,11 @@
         "subdir": "cuda12.8"
     },
     {
+        "package": "cuda12.9",
+        "url": "https://github.com/mlverse/cudatoolkit",
+        "subdir": "cuda12.9"
+    },
+    {
         "package": "cuda13.2",
         "url": "https://github.com/mlverse/cudatoolkit",
         "subdir": "cuda13.2"
